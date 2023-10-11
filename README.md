@@ -6,6 +6,10 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 
 
+## Install
+
+**Dotenv**
+`npm install -g dotenv-cli``
 
 ## Helpful start instructions on mac m1 chips (WIP)
 
