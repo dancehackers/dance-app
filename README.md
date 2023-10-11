@@ -4,6 +4,26 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+
+
+
+## Helpful start instructions on mac m1 chips (WIP)
+
+Install xcode
+`xcode-select --install`
+
+Install cocopods via
+
+
+Install ruby: `brew install ruby`
+
+
+In `/ios` folder run the following command:
+`pod install --repo-update`
+
+Follow this: https://stackoverflow.com/a/69789653/20577275
+
+
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
